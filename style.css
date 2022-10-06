@@ -1,0 +1,25 @@
+@charset "UTF-8";
+/* CSS Document */
+
+/*
+Theme Name: 
+Author: Studio 22
+Description: Ce thème est développé sur mesure par le Studio 22.
+Version: 1.0
+
+studio22, (C) 2022 https://studio22.xyz
+*/
+
+:root {
+  --xxx: #;
+}
+
+.text-xxx,
+.text-xxx-hover:hover {color: var(--xxx) !important;}
+.bg-xxx,
+.bg-xxx-hover:hover {background-color: var(--xxx) !important;}
+.bg-xxx-transparent,
+.bg-xxx-transparent-hover:hover {background-color: rgba(, , , 0.9) !important;}
+.border-xxx,
+.border-xxx-hover:hover {border-color: var(--xxx) !important;}
+
