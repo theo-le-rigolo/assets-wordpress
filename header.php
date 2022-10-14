@@ -13,6 +13,15 @@
         
         <link rel="preconnect" href="https://fonts.googleapis.com">
         
+        <!-- Google tag (gtag.js) - Google Analytics -->
+        <!-- <script async src="https://www.googletagmanager.com/gtag/js?id=ENTRER_ICI_LE_TAG"></script> -->
+        <!-- <script>window.dataLayer = window.dataLayer || []; function gtag(){dataLayer.push(arguments);} gtag('js', new Date()); gtag('config', 'ENTRER_ICI_LE_TAG');</script> -->
+        
+        <!-- start Google Captcha -->
+        <!-- <script src="https://www.google.com/recaptcha/api.js" async defer></script> -->
+        <!-- <script>function onSubmit(token) {document.getElementById("NOM_DU_FORMULAIRE").submit();}</script> -->
+        <!-- end Google Captcha -->
+        
     </head>
     <body data-mobile-nav-style="classic">
         <!-- start header -->
